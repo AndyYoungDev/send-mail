@@ -1,0 +1,30 @@
+E:\C#\群发\群发\bin\Debug\群发.exe.config
+E:\C#\群发\群发\bin\Debug\群发.exe
+E:\C#\群发\群发\bin\Debug\群发.pdb
+E:\C#\群发\群发\obj\Debug\群发.csprojAssemblyReference.cache
+E:\C#\群发\群发\obj\Debug\群发.Form1.resources
+E:\C#\群发\群发\obj\Debug\群发.Properties.Resources.resources
+E:\C#\群发\群发\obj\Debug\群发.csproj.GenerateResource.cache
+E:\C#\群发\群发\obj\Debug\群发.csproj.CoreCompileInputs.cache
+E:\C#\群发\群发\obj\Debug\群发.exe
+E:\C#\群发\群发\obj\Debug\群发.pdb
+E:\C#\群发 - 副本\群发\bin\Debug\群发.exe.config
+E:\C#\群发 - 副本\群发\bin\Debug\群发.exe
+E:\C#\群发 - 副本\群发\bin\Debug\群发.pdb
+E:\C#\群发 - 副本\群发\obj\Debug\群发.csprojAssemblyReference.cache
+E:\C#\群发 - 副本\群发\obj\Debug\群发.Form1.resources
+E:\C#\群发 - 副本\群发\obj\Debug\群发.Properties.Resources.resources
+E:\C#\群发 - 副本\群发\obj\Debug\群发.csproj.GenerateResource.cache
+E:\C#\群发 - 副本\群发\obj\Debug\群发.csproj.CoreCompileInputs.cache
+E:\C#\群发 - 副本\群发\obj\Debug\群发.exe
+E:\C#\群发 - 副本\群发\obj\Debug\群发.pdb
+D:\群发\群发\bin\Debug\群发.exe.config
+D:\群发\群发\bin\Debug\群发.exe
+D:\群发\群发\bin\Debug\群发.pdb
+D:\群发\群发\obj\Debug\群发.csprojAssemblyReference.cache
+D:\群发\群发\obj\Debug\群发.Form1.resources
+D:\群发\群发\obj\Debug\群发.Properties.Resources.resources
+D:\群发\群发\obj\Debug\群发.csproj.GenerateResource.cache
+D:\群发\群发\obj\Debug\群发.csproj.CoreCompileInputs.cache
+D:\群发\群发\obj\Debug\群发.exe
+D:\群发\群发\obj\Debug\群发.pdb
